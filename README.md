@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB,**
 
-- 👨‍💻 All of my projects are available at [francozuccorononno@gmail.com](francozuccorononno@gmail.com)
+- 👨‍💻 All of my projects are available at [francozuccorononno.com](francozuccorononno.com)
 
 - 📫 How to reach me **francozuccorononno@gmail.com**
 
